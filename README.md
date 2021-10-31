@@ -37,4 +37,4 @@ Next, you need to add the data from the test case into the same folder with thes
 
 # Notes
 
-For the live data streaming and data plot, I was able to do both fake JSON data stream and do a live plot of a metric in real time. **But** the plot was done within a Dash app, which runs on a local IP which you need to open on a browser page to visualize. In other words, **the plot does not appear in analysis.html**. To see the plot you will need to run the Bonus_3.py code locally, and then follow the Ip address to the plot. Hope this is not much of a problem.
+For the live data streaming and data plot, I was able to do both fake JSON data stream and do a live plot of a metric in real time. **But** the plot was done within a Dash app, which runs on a local IP which you need to open on a browser page to visualize. In other words, **the plot does not appear in analysis.html**. To see the plot you will need to run the Bonus_3.py code locally, and then follow the Ip address to the plot. I hope this is not much of a problem.
