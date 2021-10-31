@@ -1,0 +1,13 @@
+.history/
+.ipynb_checkpoints/
+export/
+workspace.code-workspace
+data-payment_lookup-csv.csv
+data-sample_data-nyctaxi-trips-2009-json_corrigido.json
+data-sample_data-nyctaxi-trips-2010-json_corrigido.json
+data-sample_data-nyctaxi-trips-2011-json_corrigido.json
+data-sample_data-nyctaxi-trips-2012-json_corrigido.json
+data-vendor_lookup-csv.csv
+DataSprints_Test_Case.ipynb
+Trips_and_vendors.db
+.~DataSprints_Test_Case.ipynb
