@@ -32,4 +32,9 @@ First you will need to clone the repository
 git clone https://github.com/Iuryck/DataSprintsTestCase.git
 ```
 
-Next, you need to add the data from the test case into the same folder with these code files (Trips data, vendors data, etc). After that, run **Load_Data.py** to load the files and create the **Trips_and_Vendors.db** file, and you're all set! You can run each code according to the tasks it solves. There is also the jupyter notebook that shows better how I got to the solutions of the tasks.
+Next, you need to add the data from the test case into the same folder with these code files (Trips data, vendors data, etc). After that, you can run **Load_Data.py** to load the files and create the **Trips_and_Vendors.db** file so you can run each code according to the tasks it solves. Or you can just run the Jupyter Notebook and it will do everything. And you're all set!
+
+
+# Notes
+
+For the live data streaming and data plot, I was able to do both fake JSON data stream and do a live plot of a metric in real time. **But** the plot was done within a Dash app, which runs on a local IP which you need to open on a browser page to visualize. In other words, **the plot does not appear in analysis.html**. To see the plot you will need to run the Bonus_3.py code locally, and then follow the Ip address to the plot. Hope this is not much of a problem.
