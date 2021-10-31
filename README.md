@@ -24,6 +24,8 @@ dash==2.0.0
 
 python==3.8.12
 
+In case there is any trouble, try installing Anaconda and pip installing these in an environment.
+
 # Getting started
 
 First you will need to clone the repository
